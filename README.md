@@ -1,7 +1,7 @@
 ### Oii, eu sou o Morgado! 
 
 
-- 🔭 Atualmente trabalho com front-end
+- 🔭 Atualmente trabalho com Design
 - 🌱 Estudando Web Design
 - 😄 Pronomes: Ele/Dele
 
